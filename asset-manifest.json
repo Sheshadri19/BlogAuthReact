@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/BlogAuthReact/static/css/main.a4838356.css",
-    "main.js": "/BlogAuthReact/static/js/main.ce7b99d5.js",
+    "main.js": "/BlogAuthReact/static/js/main.f150a076.js",
     "static/js/787.b697f9ec.chunk.js": "/BlogAuthReact/static/js/787.b697f9ec.chunk.js",
     "static/media/logo.svg": "/BlogAuthReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/BlogAuthReact/index.html",
     "main.a4838356.css.map": "/BlogAuthReact/static/css/main.a4838356.css.map",
-    "main.ce7b99d5.js.map": "/BlogAuthReact/static/js/main.ce7b99d5.js.map",
+    "main.f150a076.js.map": "/BlogAuthReact/static/js/main.f150a076.js.map",
     "787.b697f9ec.chunk.js.map": "/BlogAuthReact/static/js/787.b697f9ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4838356.css",
-    "static/js/main.ce7b99d5.js"
+    "static/js/main.f150a076.js"
   ]
 }
